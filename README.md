@@ -5,4 +5,4 @@ This repository contains the inverse Kinematics solver in python and arduino cod
 IKSolver will communicate with Arduino through Serial communication for rotating joint angles.
 It uses aruco marker to detect the object and give it to IK solver for pick and place.
 
-Check the drive link for video : [https://drive.google.com/file/d/19Feia7PdVU6s6XGsDyY4R1arCycdFXKr/view?usp=drive_link](url)
+Check the drive link for video (copy the link address alone) : [https://drive.google.com/file/d/19Feia7PdVU6s6XGsDyY4R1arCycdFXKr/view?usp=drive_link](url)
